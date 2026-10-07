@@ -1,0 +1,4 @@
+security_id,action_type,ratio,amount_per_share,ex_date
+SEC004,SPLIT,2.0,,2026-10-06
+SEC009,SPLIT,2.0,,2026-10-06
+SEC006,DIVIDEND,,0.45,2026-10-07
